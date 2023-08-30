@@ -48,8 +48,8 @@ Evaluate the model with the testing data.
 
 ## PROGRAM
 ~~~
-NAME:R.HEMAPRIYA
-REG.NO:212221230036
+NAME:VALASAREDDY PALLAVI
+REG.NO:2122212459
 ~~~
 ```
 
